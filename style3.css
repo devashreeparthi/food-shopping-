@@ -1,0 +1,35 @@
+img{
+    width:600px ;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size:50px ;
+    margin-top:-450px ;
+    padding-left:400px ;
+    color: deepskyblue;
+}
+p{
+    display: flex;
+    justify-content: center;
+    padding-left:500px ;
+    color: rgb(9, 0, 128);
+    font-weight:30px ;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.btn{
+    text-decoration: none;
+    margin-left :800px ;
+    position: relative;
+    text-align: center;
+        width: 10%;
+        height: 30px;
+        background-color:skyblue ;
+}
+button{
+    text-decoration: none;
+    border-color: transparent;
+    padding-top: 5px;
+    background-color: transparent;
+}

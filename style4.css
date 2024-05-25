@@ -1,0 +1,44 @@
+body{
+    overflow: hidden;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:60px ;
+    margin-top:80px;
+    color: rgb(0, 153, 255);
+    font-style:bold ;
+    
+}
+.right-side{
+    justify-content: right;
+    padding: 70px;
+}
+p{
+    color: rgb(9, 0, 128);
+    font-weight:30px ;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.btn{
+    position: relative;
+    text-align: center;
+        width: 15%;
+        height: 30px;
+        text-decoration: none;
+        background-color:skyblue;
+}
+button{
+    border-color: transparent;
+    padding-top: 5px;
+    background-color: transparent;
+}
+.left-side{
+    margin-right:700px;
+    margin-left:700px ;
+    margin-top: -600px;
+    padding-left:30px ;
+}
+img{
+    height:600px ;
+}
+
